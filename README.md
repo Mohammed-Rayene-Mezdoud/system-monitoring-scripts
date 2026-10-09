@@ -11,7 +11,6 @@
 |-------|------|
 | 👤 Developed by | Mezdoud Mohammed Rayene & Halis Hassan |
 | 📧 Contact | rayenmezdoud@gmail.com / hassanhalis15@gmail.com |
-| 🏫 Section | B — Group 3 |
 | 📅 Platform | Debian/Ubuntu Linux |
 | 🛠️ Language | Bash Shell Script |
 | 📄 License | Academic / Educational Use |
